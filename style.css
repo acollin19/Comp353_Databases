@@ -1,0 +1,28 @@
+body {
+    background: #eee;
+    font-family: courier;
+}  
+#frm{  
+    border: solid gray 1px;  
+    width:25%;  
+    border-radius: 2px;  
+    margin: 120px auto;  
+    background: white;  
+    padding: 50px;  
+}  
+#btn{  
+    color: #fff;  
+    background: #337ab7;  
+    padding: 7px;  
+    margin-left: 70%;  
+}
+h3 {
+    color: black;
+    font-family: courier;
+    font-size: 200%;
+}
+p {
+    color: black;
+    font-family: courier;
+    font-size: 120%;
+}
